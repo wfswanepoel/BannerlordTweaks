@@ -397,7 +397,7 @@ namespace BannerlordTweaks
         [SettingPropertyGroup("Clan Parties Tweak")]
         public float ClanPartiesBonusPerClanTier { get; set; } = 0.5f;
         #endregion
-
+
         #region Attribute Focus Point Tweaks
         [XmlElement]
         [SettingProperty("Enable Attribute-Focus Point Tweaks", "Changes the values used to calculate how many Attribute and Focus points player gain.")]
