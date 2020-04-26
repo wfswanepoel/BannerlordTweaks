@@ -3,13 +3,13 @@
   <PropertyGroup Label="UserMacros">
 
     <!-- Path to Mount and Blade folder -->
-    <MOUNT_AND_BLADE_DIR>C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\</MOUNT_AND_BLADE_DIR>
+    <MOUNT_AND_BLADE_DIR>D:\Games\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\</MOUNT_AND_BLADE_DIR>
 
     <!-- Path to mod folder-->
     <MOD_FOLDER>$(MOUNT_AND_BLADE_DIR)Modules\zzBannerlordTweaks\</MOD_FOLDER>
 	
 	<!-- Path to ModLib assembly-->
-	<MODLIB_PATH>C:\Users\Liam\source\repos\ModLib\bin\Debug\ModLib.dll</MODLIB_PATH>
+	<MODLIB_PATH>D:\Projects\ModLib\bin\Debug\ModLib.dll</MODLIB_PATH>
 
   </PropertyGroup>
 </Project>
